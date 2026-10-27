@@ -12,81 +12,81 @@ build_property.EntryPointFilePath =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PruebaDanielRoblero
 build_property.RootNamespace = PruebaDanielRoblero
-build_property.ProjectDir = C:\Users\Kenzo\Documents\Proyectos estudios\Proyectos github\PruebaTecnica\PruebaDanielRoblero\PruebaDanielRoblero\
+build_property.ProjectDir = C:\Users\Kenzo\Documents\Proyectos estudios\Proyectos github\Prueba Tecnica Daniel Roblero\PruebaTecnicaFullStack\PruebaDanielRoblero\PruebaDanielRoblero\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 10.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Kenzo\Documents\Proyectos estudios\Proyectos github\PruebaTecnica\PruebaDanielRoblero\PruebaDanielRoblero
+build_property.MSBuildProjectDirectory = C:\Users\Kenzo\Documents\Proyectos estudios\Proyectos github\Prueba Tecnica Daniel Roblero\PruebaTecnicaFullStack\PruebaDanielRoblero\PruebaDanielRoblero
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/PruebaTecnica/PruebaDanielRoblero/PruebaDanielRoblero/Views/Departamentos/Create.cshtml]
+[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/Prueba Tecnica Daniel Roblero/PruebaTecnicaFullStack/PruebaDanielRoblero/PruebaDanielRoblero/Views/Departamentos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/PruebaTecnica/PruebaDanielRoblero/PruebaDanielRoblero/Views/Departamentos/Delete.cshtml]
+[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/Prueba Tecnica Daniel Roblero/PruebaTecnicaFullStack/PruebaDanielRoblero/PruebaDanielRoblero/Views/Departamentos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/PruebaTecnica/PruebaDanielRoblero/PruebaDanielRoblero/Views/Departamentos/Edit.cshtml]
+[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/Prueba Tecnica Daniel Roblero/PruebaTecnicaFullStack/PruebaDanielRoblero/PruebaDanielRoblero/Views/Departamentos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/PruebaTecnica/PruebaDanielRoblero/PruebaDanielRoblero/Views/Departamentos/Index.cshtml]
+[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/Prueba Tecnica Daniel Roblero/PruebaTecnicaFullStack/PruebaDanielRoblero/PruebaDanielRoblero/Views/Departamentos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/PruebaTecnica/PruebaDanielRoblero/PruebaDanielRoblero/Views/Departamentos/_Formulario.cshtml]
+[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/Prueba Tecnica Daniel Roblero/PruebaTecnicaFullStack/PruebaDanielRoblero/PruebaDanielRoblero/Views/Departamentos/_Formulario.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvc1xfRm9ybXVsYXJpby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/PruebaTecnica/PruebaDanielRoblero/PruebaDanielRoblero/Views/Empleados/Create.cshtml]
+[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/Prueba Tecnica Daniel Roblero/PruebaTecnicaFullStack/PruebaDanielRoblero/PruebaDanielRoblero/Views/Empleados/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/PruebaTecnica/PruebaDanielRoblero/PruebaDanielRoblero/Views/Empleados/Delete.cshtml]
+[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/Prueba Tecnica Daniel Roblero/PruebaTecnicaFullStack/PruebaDanielRoblero/PruebaDanielRoblero/Views/Empleados/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/PruebaTecnica/PruebaDanielRoblero/PruebaDanielRoblero/Views/Empleados/Edit.cshtml]
+[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/Prueba Tecnica Daniel Roblero/PruebaTecnicaFullStack/PruebaDanielRoblero/PruebaDanielRoblero/Views/Empleados/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/PruebaTecnica/PruebaDanielRoblero/PruebaDanielRoblero/Views/Empleados/Index.cshtml]
+[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/Prueba Tecnica Daniel Roblero/PruebaTecnicaFullStack/PruebaDanielRoblero/PruebaDanielRoblero/Views/Empleados/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/PruebaTecnica/PruebaDanielRoblero/PruebaDanielRoblero/Views/Empleados/_Formulario.cshtml]
+[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/Prueba Tecnica Daniel Roblero/PruebaTecnicaFullStack/PruebaDanielRoblero/PruebaDanielRoblero/Views/Empleados/_Formulario.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXF9Gb3JtdWxhcmlvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/PruebaTecnica/PruebaDanielRoblero/PruebaDanielRoblero/Views/Home/Index.cshtml]
+[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/Prueba Tecnica Daniel Roblero/PruebaTecnicaFullStack/PruebaDanielRoblero/PruebaDanielRoblero/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/PruebaTecnica/PruebaDanielRoblero/PruebaDanielRoblero/Views/Home/Privacy.cshtml]
+[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/Prueba Tecnica Daniel Roblero/PruebaTecnicaFullStack/PruebaDanielRoblero/PruebaDanielRoblero/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/PruebaTecnica/PruebaDanielRoblero/PruebaDanielRoblero/Views/Shared/Error.cshtml]
+[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/Prueba Tecnica Daniel Roblero/PruebaTecnicaFullStack/PruebaDanielRoblero/PruebaDanielRoblero/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/PruebaTecnica/PruebaDanielRoblero/PruebaDanielRoblero/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/Prueba Tecnica Daniel Roblero/PruebaTecnicaFullStack/PruebaDanielRoblero/PruebaDanielRoblero/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/PruebaTecnica/PruebaDanielRoblero/PruebaDanielRoblero/Views/_ViewImports.cshtml]
+[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/Prueba Tecnica Daniel Roblero/PruebaTecnicaFullStack/PruebaDanielRoblero/PruebaDanielRoblero/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/PruebaTecnica/PruebaDanielRoblero/PruebaDanielRoblero/Views/_ViewStart.cshtml]
+[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/Prueba Tecnica Daniel Roblero/PruebaTecnicaFullStack/PruebaDanielRoblero/PruebaDanielRoblero/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/PruebaTecnica/PruebaDanielRoblero/PruebaDanielRoblero/Views/Shared/_Layout.cshtml]
+[C:/Users/Kenzo/Documents/Proyectos estudios/Proyectos github/Prueba Tecnica Daniel Roblero/PruebaTecnicaFullStack/PruebaDanielRoblero/PruebaDanielRoblero/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2ekzm12dhy

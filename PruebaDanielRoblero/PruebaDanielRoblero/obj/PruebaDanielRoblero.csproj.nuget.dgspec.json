@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kenzo\\Documents\\Proyectos estudios\\Proyectos github\\PruebaTecnica\\PruebaDanielRoblero\\PruebaDanielRoblero\\PruebaDanielRoblero.csproj": {}
+    "C:\\Users\\Kenzo\\Documents\\Proyectos estudios\\Proyectos github\\Prueba Tecnica Daniel Roblero\\PruebaTecnicaFullStack\\PruebaDanielRoblero\\PruebaDanielRoblero\\PruebaDanielRoblero.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kenzo\\Documents\\Proyectos estudios\\Proyectos github\\PruebaTecnica\\PruebaDanielRoblero\\PruebaDanielRoblero\\PruebaDanielRoblero.csproj": {
+    "C:\\Users\\Kenzo\\Documents\\Proyectos estudios\\Proyectos github\\Prueba Tecnica Daniel Roblero\\PruebaTecnicaFullStack\\PruebaDanielRoblero\\PruebaDanielRoblero\\PruebaDanielRoblero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kenzo\\Documents\\Proyectos estudios\\Proyectos github\\PruebaTecnica\\PruebaDanielRoblero\\PruebaDanielRoblero\\PruebaDanielRoblero.csproj",
+        "projectUniqueName": "C:\\Users\\Kenzo\\Documents\\Proyectos estudios\\Proyectos github\\Prueba Tecnica Daniel Roblero\\PruebaTecnicaFullStack\\PruebaDanielRoblero\\PruebaDanielRoblero\\PruebaDanielRoblero.csproj",
         "projectName": "PruebaDanielRoblero",
-        "projectPath": "C:\\Users\\Kenzo\\Documents\\Proyectos estudios\\Proyectos github\\PruebaTecnica\\PruebaDanielRoblero\\PruebaDanielRoblero\\PruebaDanielRoblero.csproj",
+        "projectPath": "C:\\Users\\Kenzo\\Documents\\Proyectos estudios\\Proyectos github\\Prueba Tecnica Daniel Roblero\\PruebaTecnicaFullStack\\PruebaDanielRoblero\\PruebaDanielRoblero\\PruebaDanielRoblero.csproj",
         "packagesPath": "C:\\Users\\Kenzo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kenzo\\Documents\\Proyectos estudios\\Proyectos github\\PruebaTecnica\\PruebaDanielRoblero\\PruebaDanielRoblero\\obj\\",
+        "outputPath": "C:\\Users\\Kenzo\\Documents\\Proyectos estudios\\Proyectos github\\Prueba Tecnica Daniel Roblero\\PruebaTecnicaFullStack\\PruebaDanielRoblero\\PruebaDanielRoblero\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

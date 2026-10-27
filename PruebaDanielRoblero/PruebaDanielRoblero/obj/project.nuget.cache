@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EFvl5oMsX64=",
+  "dgSpecHash": "I5t43N8Ymkk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kenzo\\Documents\\Proyectos estudios\\Proyectos github\\PruebaTecnica\\PruebaDanielRoblero\\PruebaDanielRoblero\\PruebaDanielRoblero.csproj",
+  "projectFilePath": "C:\\Users\\Kenzo\\Documents\\Proyectos estudios\\Proyectos github\\Prueba Tecnica Daniel Roblero\\PruebaTecnicaFullStack\\PruebaDanielRoblero\\PruebaDanielRoblero\\PruebaDanielRoblero.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kenzo\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
     "C:\\Users\\Kenzo\\.nuget\\packages\\azure.identity\\1.17.1\\azure.identity.1.17.1.nupkg.sha512",

@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kenzo\\Documents\\Proyectos estudios\\Proyectos github\\PruebaTecnica\\PruebaDanielRoblero\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Kenzo\\Documents\\Proyectos estudios\\Proyectos github\\Prueba Tecnica Daniel Roblero\\PruebaTecnicaFullStack\\PruebaDanielRoblero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14F4D28D-A027-6C1C-CE7C-76ED9063FFE1}|PruebaDanielRoblero\\PruebaDanielRoblero.csproj|c:\\users\\kenzo\\documents\\proyectos estudios\\proyectos github\\prueba tecnica daniel roblero\\pruebatecnicafullstack\\pruebadanielroblero\\pruebadanielroblero\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F4D28D-A027-6C1C-CE7C-76ED9063FFE1}|PruebaDanielRoblero\\PruebaDanielRoblero.csproj|solutionrelative:pruebadanielroblero\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadosController.cs",
+              "DocumentMoniker": "C:\\Users\\Kenzo\\Documents\\Proyectos estudios\\Proyectos github\\Prueba Tecnica Daniel Roblero\\PruebaTecnicaFullStack\\PruebaDanielRoblero\\PruebaDanielRoblero\\Controllers\\EmpleadosController.cs",
+              "RelativeDocumentMoniker": "PruebaDanielRoblero\\Controllers\\EmpleadosController.cs",
+              "ToolTip": "C:\\Users\\Kenzo\\Documents\\Proyectos estudios\\Proyectos github\\Prueba Tecnica Daniel Roblero\\PruebaTecnicaFullStack\\PruebaDanielRoblero\\PruebaDanielRoblero\\Controllers\\EmpleadosController.cs*",
+              "RelativeToolTip": "PruebaDanielRoblero\\Controllers\\EmpleadosController.cs*",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAUwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T22:05:29.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
