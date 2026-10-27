@@ -1,0 +1,23 @@
+@model Departamento
+@{
+    ViewData["Title"] = "Eliminar departamento";
+}
+<div class="form-card">
+    <a asp-action="Index" class="text-decoration-none d-inline-block mb-3">← Volver a departamentos</a>
+    <div class="card"><div class="card-body p-4">
+        <h1>Eliminar departamento</h1>
+        <p class="text-secondary">Revisa el registro antes de confirmar.</p>
+        <div class="alert alert-warning">Esta acción eliminará el registro de forma permanente.</div>
+        <div asp-validation-summary="All" class="alert alert-danger" role="alert"></div>
+        <dl class="row mb-4">
+            <dt class="col-sm-4">Código</dt><dd class="col-sm-8 text-content">@Model.Codigo</dd>
+            <dt class="col-sm-4">Nombre</dt><dd class="col-sm-8 text-content">@Model.Nombre</dd>
+            <dt class="col-sm-4">Descripción</dt><dd class="col-sm-8 text-content">@(string.IsNullOrWhiteSpace(Model.Descripcion) ? "Sin descripción" : Model.Descripcion)</dd>
+        </dl>
+        <form asp-action="Delete" asp-route-id="@Model.Id" method="post" class="d-flex gap-2">
+            <input asp-for="Id" type="hidden" />
+            <button type="submit" class="btn btn-danger">Sí, eliminar</button>
+            <a asp-action="Index" class="btn btn-outline-secondary">Cancelar</a>
+        </form>
+    </div></div>
+</div>

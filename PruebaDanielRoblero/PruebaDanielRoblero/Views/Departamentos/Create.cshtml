@@ -1,0 +1,21 @@
+@model Departamento
+@{
+    ViewData["Title"] = "Nuevo departamento";
+}
+<div class="form-card">
+    <a asp-action="Index" class="text-decoration-none d-inline-block mb-3">← Volver a departamentos</a>
+    <div class="card"><div class="card-body p-4">
+        <h1>Nuevo departamento</h1>
+        <p class="text-secondary mb-4">Completa la información para crear el registro.</p>
+        <form asp-action="Create" method="post">
+            <partial name="_Formulario" model="Model" />
+            <div class="d-flex gap-2 mt-4">
+                <button type="submit" class="btn btn-primary">Crear departamento</button>
+                <a asp-action="Index" class="btn btn-outline-secondary">Cancelar</a>
+            </div>
+        </form>
+    </div></div>
+</div>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

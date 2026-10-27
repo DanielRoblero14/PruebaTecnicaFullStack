@@ -1,0 +1,26 @@
+@model Empleado
+@{
+    ViewData["Title"] = "Editar empleado";
+}
+<div class="form-card">
+    <a asp-action="Index" class="text-decoration-none d-inline-block mb-3">← Volver a empleados</a>
+    <div class="card"><div class="card-body p-4">
+        <h1>Editar empleado</h1>
+        <p class="text-secondary mb-4">Actualiza la información del registro.</p>
+        <form asp-action="Edit" asp-route-id="@Model.Id" method="post">
+            <input asp-for="Id" type="hidden" />
+            <div class="mb-3">
+                <label for="codigoEmpleado" class="form-label">Código</label>
+                <input id="codigoEmpleado" class="form-control" value="@Model.Codigo" readonly />
+            </div>
+            <partial name="_Formulario" model="Model" />
+            <div class="d-flex gap-2 mt-4">
+                <button type="submit" class="btn btn-primary">Guardar cambios</button>
+                <a asp-action="Index" class="btn btn-outline-secondary">Cancelar</a>
+            </div>
+        </form>
+    </div></div>
+</div>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

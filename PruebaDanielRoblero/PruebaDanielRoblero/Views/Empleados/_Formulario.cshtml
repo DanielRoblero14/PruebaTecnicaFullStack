@@ -1,0 +1,25 @@
+@model Empleado
+<div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert"></div>
+<p class="small text-secondary">Los campos con * son obligatorios.</p>
+<div class="mb-3">
+    <label asp-for="Nombres" class="form-label">Nombres *</label>
+    <input asp-for="Nombres" class="form-control" maxlength="100" />
+    <span asp-validation-for="Nombres" class="text-danger"></span>
+</div>
+<div class="mb-3">
+    <label asp-for="Apellidos" class="form-label">Apellidos *</label>
+    <input asp-for="Apellidos" class="form-control" maxlength="100" />
+    <span asp-validation-for="Apellidos" class="text-danger"></span>
+</div>
+<div class="mb-3">
+    <label asp-for="FechaNacimiento" class="form-label">Fecha de nacimiento</label>
+    <input asp-for="FechaNacimiento" class="form-control" type="date" />
+    <span asp-validation-for="FechaNacimiento" class="text-danger"></span>
+</div>
+<div class="mb-4">
+    <label asp-for="DepartamentoId" class="form-label">Departamento *</label>
+    <select asp-for="DepartamentoId" asp-items="ViewBag.DepartamentoId" class="form-select">
+        <option value="">Seleccione un departamento</option>
+    </select>
+    <span asp-validation-for="DepartamentoId" class="text-danger"></span>
+</div>

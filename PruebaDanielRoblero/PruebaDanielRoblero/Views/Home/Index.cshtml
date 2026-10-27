@@ -1,0 +1,19 @@
+@{
+    ViewData["Title"] = "Inicio";
+}
+<p class="text-primary fw-semibold mb-2">ADMINISTRACIÓN</p>
+<h1>Control de empleados</h1>
+<p class="text-secondary mb-4">Organiza los departamentos y los empleados de tu empresa.</p>
+<div class="row g-4">
+    <div class="col-md-6"><div class="card h-100"><div class="card-body p-4">
+        <h2 class="h4">Departamentos</h2>
+        <p class="text-secondary">Administra las áreas a las que pertenecen los empleados.</p>
+        <a asp-controller="Departamentos" asp-action="Index" class="btn btn-primary">Ver departamentos</a>
+    </div></div></div>
+    <div class="col-md-6"><div class="card h-100"><div class="card-body p-4">
+        <h2 class="h4">Empleados</h2>
+        <p class="text-secondary">Registra empleados y asigna a cada uno su departamento.</p>
+        <a asp-controller="Empleados" asp-action="Index" class="btn btn-primary">Ver empleados</a>
+    </div></div></div>
+</div>
+-

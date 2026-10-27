@@ -1,0 +1,17 @@
+body { min-height: 100vh; display: flex; flex-direction: column; background: #f4f6fa; color: #263449; }
+h1 { font-size: 1.85rem; font-weight: 700; }
+.navbar { min-height: 76px; }
+.card { border: 1px solid #e3e8ef; border-radius: 12px; box-shadow: 0 4px 18px rgb(28 45 70 / 4%); }
+.form-card { max-width: 720px; margin-inline: auto; }
+.form-label { font-weight: 600; }
+.table > :not(caption) > * > * { padding: 1rem; }
+.table thead th { background: #f8fafd; color: #526177; font-size: .875rem; }
+.table td { vertical-align: middle; }
+.text-content { overflow-wrap: anywhere; }
+.validation-summary-valid { display: none; }
+.field-validation-error { display: block; margin-top: .35rem; font-size: .875rem; }
+.input-validation-error { border-color: #dc3545; }
+@media (max-width: 575.98px) {
+    .navbar-brand { font-size: 1rem; }
+    h1 { font-size: 1.5rem; }
+}

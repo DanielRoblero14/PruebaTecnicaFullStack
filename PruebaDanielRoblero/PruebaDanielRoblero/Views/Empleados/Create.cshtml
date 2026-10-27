@@ -1,0 +1,27 @@
+@model Empleado
+@{
+    ViewData["Title"] = "Nuevo empleado";
+    var hayDepartamentos = ((Microsoft.AspNetCore.Mvc.Rendering.SelectList)ViewBag.DepartamentoId).Any();
+}
+<div class="form-card">
+    <a asp-action="Index" class="text-decoration-none d-inline-block mb-3">← Volver a empleados</a>
+    <div class="card"><div class="card-body p-4">
+        <h1>Nuevo empleado</h1>
+        <p class="text-secondary mb-4">Completa la información para crear el registro.</p>
+        @if (!hayDepartamentos)
+        {
+            <div class="alert alert-warning">Primero debes <a asp-controller="Departamentos" asp-action="Create" class="alert-link">crear un departamento</a> para registrar empleados.</div>
+        }
+        <p class="small text-secondary">El código se asignará automáticamente al guardar.</p>
+        <form asp-action="Create" method="post">
+            <partial name="_Formulario" model="Model" />
+            <div class="d-flex gap-2 mt-4">
+                <button type="submit" class="btn btn-primary" disabled="@(!hayDepartamentos)">Crear empleado</button>
+                <a asp-action="Index" class="btn btn-outline-secondary">Cancelar</a>
+            </div>
+        </form>
+    </div></div>
+</div>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
